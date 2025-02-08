@@ -1,6 +1,7 @@
 # 🎯 sX-Sniper
 
 🚀 **sX-Sniper** is the ultimate tool for sniping on the **Solana** blockchain.  
+
 It allows you to instantly open copied addresses on the best trading platforms, either via our **Google Chrome extension** or directly in **Python** from your terminal.
 
 ---
