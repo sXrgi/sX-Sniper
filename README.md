@@ -45,7 +45,7 @@ run-sniper.bat
 
 🔹 Run install-requirements.bat to automatically install all necessary dependencies.
 
-** _ ~ If everything is already installed, it will confirm and let you run the script without issues. ~ _ **
+**_~ If everything is already installed, it will confirm and let you run the script without issues. ~_**
 
 ---
 
