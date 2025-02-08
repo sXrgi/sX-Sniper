@@ -41,9 +41,9 @@ Simply run:
 run-sniper.bat
 ```
 ---
-🛠 Automatic Installer
+## 🛠 Automatic Installer
 
-To make installation easier, we’ve created a .bat file that does everything for you:
+### To make installation easier, we’ve created a .bat file that does everything for you:
 
 🔹 Run install-requirements.bat to automatically install all necessary dependencies.
 
@@ -51,5 +51,5 @@ If everything is already installed, it will confirm and let you run the script w
 ---
 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the SPL License.
 Created with ❤️ by @sxsniper_sol
