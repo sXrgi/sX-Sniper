@@ -36,8 +36,9 @@ Simply run:
 install-requirements.bat
 ```
 3️⃣ Run the script
-
-Execute run-sniper.bat
+```bash
+run-sniper.bat
+```
 ---
 🛠 Automatic Installer
 
