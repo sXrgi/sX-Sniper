@@ -30,13 +30,11 @@ It allows you to instantly open copied addresses on the best trading platforms, 
 ```bash
 sX-Sniper-v.2.zip
 ```
-2️⃣ Install dependencies
-Simply run:
+2️⃣ Install dependencies:
 ```bash
 install-requirements.bat
 ```
-3️⃣ Run the script
-Simply run:
+3️⃣ Run the script:
 ```bash
 run-sniper.bat
 ```
