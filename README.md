@@ -47,9 +47,9 @@ run-sniper.bat
 
 🔹 Run install-requirements.bat to automatically install all necessary dependencies.
 
-If everything is already installed, it will confirm and let you run the script without issues.
+  If everything is already installed, it will confirm and let you run the script without issues.
 ---
-##📜 License
+## 📜 License
 
 This project is licensed under the SPL License.
 Created with ❤️ by @sxsniper_sol
