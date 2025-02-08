@@ -29,3 +29,25 @@ It allows you to instantly open copied addresses on the best trading platforms, 
 ```bash
 git clone https://github.com/yourusername/sx-sniper.git
 cd sx-sniper
+```
+2️⃣ Install dependencies
+Simply run:
+```bash
+install-requirements.bat
+```
+3️⃣ Run the script
+
+Execute run-sniper.bat
+---
+🛠 Automatic Installer
+
+To make installation easier, we’ve created a .bat file that does everything for you:
+
+🔹 Run install-requirements.bat to automatically install all necessary dependencies.
+
+If everything is already installed, it will confirm and let you run the script without issues.
+---
+📜 License
+
+This project is licensed under the MIT License.
+Created with ❤️ by @sxsniper_sol
