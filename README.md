@@ -51,6 +51,6 @@ run-sniper.bat
 
 ## 📜 License
 
-This project is licensed under the SPL License.
+This project is licensed under the **SPL License**.
 
 **_Created with ❤️ by [@sxsniper_sol](https://x.com/sxsniper_sol)_**
