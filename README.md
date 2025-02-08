@@ -11,7 +11,7 @@ It allows you to instantly open copied addresses on the best trading platforms, 
 ✅ **Chrome Extension**: Detects copied addresses and opens them instantly in your chosen platform.  
 ✅ **Python Script**: Terminal interface that monitors the clipboard and opens addresses automatically.  
 ✅ **Auto Installer**: A simple `.bat` file to install all requirements with a single click.  
-✅ **Solana & PumpFun Compatible**: Detects only valid addresses, avoiding unwanted links.  
+✅ **URL Validator for Solana**: Detects only valid addresses, avoiding unwanted links.  
 
 ---
 
