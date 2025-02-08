@@ -28,7 +28,7 @@ It allows you to instantly open copied addresses on the best trading platforms, 
 
 1️⃣ **Download de .zip file**  
 ```bash
-sX-Sniper-v.2.zip
+sX-Sniper.zip
 ```
 2️⃣ Install dependencies:
 ```bash
