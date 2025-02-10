@@ -49,7 +49,7 @@ run-sniper.bat
 
 ---
 
-## 📈 Solana Token Launch
+## 📈 Pump.fun Token
 
 ### **_CA: Soon..._**
 
