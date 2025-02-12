@@ -22,7 +22,7 @@ It allows you to instantly open copied addresses on the best trading platforms, 
 
 ---
 
-## 💻 Python Script (soon)
+## 💻 Python Script **_(Soon...)_**
 
 ### 🚀 Quick Installation
 
