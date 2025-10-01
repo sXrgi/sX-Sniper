@@ -51,7 +51,7 @@ run-sniper.bat
 
 ## 📈 Pump.fun Token
 
-### **_CA:3Mmw4Qgaq8j4gx9TVWS8bxq1RXQ2oRx7vJLQ2WrTpump _**
+### *_CA:3Mmw4Qgaq8j4gx9TVWS8bxq1RXQ2oRx7vJLQ2WrTpump _*
 
 ---
 
