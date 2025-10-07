@@ -15,7 +15,7 @@ It allows you to instantly open copied addresses on the best trading platforms, 
 
 ---
 
-## 🌐 Chrome Extension
+## 🌐 Chrome Extension (Easy Method)
 
 🔹 **Download it directly from the Chrome Web Store**:  
 👉 [sX-Sniper Extension](https://chromewebstore.google.com/detail/sx-sniper/doinhgafoahkknaejiaccalhdffdfcjd)  
