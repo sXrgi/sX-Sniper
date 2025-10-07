@@ -51,7 +51,7 @@ run-sniper.bat
 
 ## 📈 Pump.fun Token
 
-### *CA: Soon...*
+### *CA: 36V6sStq8SHqCX3UMJqXgzWmZU1tktZhdC4R3mPdpump*
 
 ---
 
